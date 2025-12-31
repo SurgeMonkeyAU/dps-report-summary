@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+summary-report.txt
+omnisharp.json
+.vscode
+
 # User-specific files
 *.rsuser
 *.suo
